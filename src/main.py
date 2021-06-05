@@ -16,4 +16,4 @@ if __name__ == "__main__":
     obj = ptick_ptock()
     obj.ptick()
     print(obj.datetime_ptock())
-    print(obj.print_ptock())
+    obj.print_ptock()
