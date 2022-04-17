@@ -2,6 +2,10 @@
 
 ![Tests](https://github.com/ADorigi/ptick-ptock/actions/workflows/tests.yml/badge.svg)  
 
+<a href="https://github.com/ADorigi/ptick-ptock/actions/workflows/tests.yml">
+    <img src="https://github.com/ADorigi/ptick-ptock/actions/workflows/tests.yml/badge.svg?style=flat" />
+</a>
+
 ![Ptick-Ptock](https://media1.giphy.com/media/Qz4RaxcOh4qndWOG5N/giphy.gif)
 
 A simple stopwatch imitating tool inspired by tic toc in MATLAB 
