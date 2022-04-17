@@ -1,1 +1,1 @@
-from .main import ptick_ptock
+from .ptick_ptock import ptick_ptock
