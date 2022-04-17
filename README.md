@@ -2,7 +2,9 @@
 
 A simple stopwatch imitating tool inspired by tic toc in MATLAB
 
-![Tests](https://github.com/ADorigi/ptick-ptock/actions/workflows/tests.yml/badge.svg)
+![Tests](https://github.com/ADorigi/ptick-ptock/actions/workflows/tests.yml/badge.svg)  
+
+![Alt Text](https://media1.giphy.com/media/Qz4RaxcOh4qndWOG5N/giphy.gif)
 
 ## Installation
 
