@@ -1,6 +1,6 @@
 # Ptick Ptock
 
-![Tests](https://github.com/ADorigi/ptick-ptock/actions/workflows/tests.yml/badge.svg)  
+![Tests](https://github.com/ADorigi/ptick-ptock/actions/workflows/tests.yaml/badge.svg)  
 
 ![Ptick-Ptock](https://media1.giphy.com/media/Qz4RaxcOh4qndWOG5N/giphy.gif)
 
