@@ -48,4 +48,5 @@ object.print_ptock()
 [MIT](https://choosealicense.com/licenses/mit/)
 
 
-###### P.S. : The timeline was a joke 🤓
+
+\* P.S. : The timeline was a joke 🤓 \*
