@@ -1,6 +1,8 @@
 # Ptick Ptock
 
-![Tests](https://github.com/ADorigi/ptick-ptock/actions/workflows/tests.yaml/badge.svg)  
+[![Tests](https://github.com/ADorigi/ptick-ptock/actions/workflows/tests.yaml/badge.svg?branch=main)](https://github.com/ADorigi/ptick-ptock/actions/workflows/tests.yaml)  
+
+## Summary
 
 ![Ptick-Ptock](https://media1.giphy.com/media/Qz4RaxcOh4qndWOG5N/giphy.gif)
 
@@ -8,10 +10,15 @@ A simple stopwatch imitating tool inspired by tic toc in MATLAB
 
 Have you been a victim of scrutinous time calculation in python?  
 The constant time subtractions and manipulations.....? I know.  
-This library masks those steps for you. "Abstracts it" as you would term it. 
+This library masks those steps for you; "abstracts it" as you would term it.  
+
+Link to PyPi [Ptick-Ptock](https://pypi.org/project/ptick-ptock/)
 
 <img src="honest_work.jpeg" alt="HonestWork" width="400"/>
 
+## Project Timeline
+
+<img src="Timeline.jpg" alt="Timeline" width="1000"/>  
 ## Installation
 
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install ptick-ptock.
@@ -39,3 +46,6 @@ object.print_ptock()
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
+
+
+###### P.S. : The timeline was a joke 🤓
