@@ -14,11 +14,11 @@ This library masks those steps for you; "abstracts it" as you would term it.
 
 Link to PyPi [Ptick-Ptock](https://pypi.org/project/ptick-ptock/)
 
-<img src="honest_work.jpeg" alt="HonestWork" width="400"/>
+<img src="https://i.ibb.co/hgpyfk5/honest-work.jpg" alt="HonestWork" width="400"/>
 
 ## Project Timeline
 
-<img src="Timeline.jpg" alt="Timeline" width="1000"/>  
+<img src="https://i.ibb.co/cgM9Z3T/Timeline.jpg" alt="Timeline" width="1000"/>  
 
 ## Installation
 
