@@ -19,6 +19,7 @@ Link to PyPi [Ptick-Ptock](https://pypi.org/project/ptick-ptock/)
 ## Project Timeline
 
 <img src="Timeline.jpg" alt="Timeline" width="1000"/>  
+
 ## Installation
 
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install ptick-ptock.
